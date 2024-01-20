@@ -33,8 +33,7 @@ comments :
 
 # Internal nav
 nav:
-  - GALLERY: "https://austinstanley.github.io/howdy-hideaway/gallery/"  
-  - JOURNAL: "https://austinstanley.github.io/howdy-hideaway/journal/"
+  - GALLERY: "https://austinstanley.github.io/howdy-hideaway/gallery/gallery01/"
   - ABOUT: "https://austinstanley.github.io/howdy-hideaway/about/"
 
 # All translation keys
